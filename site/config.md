@@ -1,7 +1,7 @@
 ---
 site:
-  title: 'Jason Ng、阿禅与伍嘉贤的网络档案'
-  description: '伍嘉贤（Jason Ng）的网络档案页面，包含联系方式、网络踪迹等。'
+  title: '金宇秋的个人主页'
+  description: '金宇秋的个人主页，展示经历、作品与联系方式。'
   language: 'zh-CN'
   loadingTitle: '正在加载主页'
   loadingDescription: '内容马上就绪'
@@ -9,13 +9,13 @@ site:
   emptyStateDescription: '在对应的 Markdown 文件里添加 items 后，这里会自动显示。'
 
 brand:
-  name: 'JN'
+  name: '金宇秋'
   logo: 'assets/logo.png'
-  avatar: 'assets/memoji.png'
+  avatar: 'assets/avatar.png'
   favicon: 'favicon.ico'
 
 profile:
-  birthDate: '1987-11-06'
+  birthDate: '1990-01-01'
   version:
     enabled: true
     title: ''
@@ -39,7 +39,7 @@ navigation:
       enabled: true
     - id: 'Stories'
       label: '故事'
-      enabled: true
+      enabled: false
     - id: 'Skills'
       label: '技能'
       enabled: true
@@ -54,38 +54,19 @@ navigation:
       enabled: true
     - id: 'Services'
       label: '服务'
-      enabled: true
+      enabled: false
     - id: 'Footer'
       label: '联系'
       enabled: true
 
 analytics:
-  enabled: true
-  provider: 'googleAnalytics'
-  app: 'JasonNgHomePage'
-  measurementIds:
-    - 'G-Z5G5JGDFMK'
+  enabled: false
 
 socialLinks:
   - name: 'GitHub'
     icon: 'github'
-    url: 'https://github.com/jason5ng32'
-  - name: 'Twitter'
-    icon: 'twitter'
-    url: 'https://twitter.com/jason5ng32'
-  - name: 'LinkedIn'
-    icon: 'linkedin'
-    url: 'https://www.linkedin.com/in/jason5ng32'
+    url: 'https://github.com/justina2534'
   - name: 'Email'
     icon: 'envelope'
-    url: 'mailto:fromhomepage@kenengba.com'
-  - name: 'Instagram'
-    icon: 'instagram'
-    url: 'https://www.instagram.com/jason5ng32'
-  - name: '博客'
-    icon: 'rss'
-    url: 'https://kenengba.com'
-  - name: 'Wikipedia'
-    icon: 'wikipedia'
-    url: 'https://zh.wikipedia.org/wiki/%E4%BC%8D%E5%98%89%E8%B4%A4'
+    url: 'mailto:placeholder@example.com'
 ---
