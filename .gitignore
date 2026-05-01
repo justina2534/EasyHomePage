@@ -22,7 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-docs
+# docs
 local
 package-lock.json
 project-docs/*
